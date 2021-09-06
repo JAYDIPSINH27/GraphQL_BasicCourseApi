@@ -1,0 +1,10 @@
+Parts:
+Schema 
+Resolver
+
+Query language for api
+
+Restaurant example::
+Self serving bouqet-
+Serving waiter-
+
